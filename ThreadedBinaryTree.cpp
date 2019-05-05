@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : ThreadedBinaryTree.cpp
-// Author      : VNKDJ5
+// Author      : Gautam Kothari
 // Title : Convert given binary tree into inordered and preordered threaded binary tree.
 //			Analyze time and space complexity of the algorithm.
 //============================================================================
